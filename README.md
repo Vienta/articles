@@ -14,3 +14,6 @@ objccn.io
 ### WHEN
 
 如果没有意外，这个项目将一直至少持续到objc.io的内容停止更新和结束。
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Vienta/articles/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
